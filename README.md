@@ -1,4 +1,4 @@
-# Parthenon Legal-Agent Skills
+# Harvey-labs Skills
 
 Per-task, **rubric-blind procedural skills** for **Parthenon**, a self-evolving
 legal-agent framework. Each skill encodes *how to work a class of legal matter*
